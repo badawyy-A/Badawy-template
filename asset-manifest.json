@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/Badawy-template/static/css/main.3510a28c.css",
-    "main.js": "/Badawy-template/static/js/main.07f8aa44.js",
+    "main.css": "/Badawy-template/static/css/main.7b0fa462.css",
+    "main.js": "/Badawy-template/static/js/main.c663659c.js",
     "static/js/453.12277f82.chunk.js": "/Badawy-template/static/js/453.12277f82.chunk.js",
     "static/media/mt-everest.jpg": "/Badawy-template/static/media/mt-everest.15276869d2e10e38d91b.jpg",
     "static/media/about.JPG": "/Badawy-template/static/media/about.c0eaed3d453e312dfb7b.JPG",
+    "static/media/pexels-aa-dil-5417957.jpg": "/Badawy-template/static/media/pexels-aa-dil-5417957.31b5734614b939d2c4de.jpg",
     "static/media/portfolio-3.jpg": "/Badawy-template/static/media/portfolio-3.67d358e93c5c9d91d2de.jpg",
     "static/media/686998.webp": "/Badawy-template/static/media/686998.d39ba0234d20b270fef5.webp",
     "static/media/portfolio-1.webp": "/Badawy-template/static/media/portfolio-1.ee8aadd6808ed210b009.webp",
     "static/media/portfolio-2.jpg": "/Badawy-template/static/media/portfolio-2.9f533aff251314e72c8e.jpg",
+    "static/media/icons8-sun.svg": "/Badawy-template/static/media/icons8-sun.1ca8021dd10fb1794a3f8f7e53ef70fb.svg",
+    "static/media/icons8-moon-man.svg": "/Badawy-template/static/media/icons8-moon-man.08e9aa8e15a662f7eb3434f68d1f7297.svg",
     "index.html": "/Badawy-template/index.html",
-    "main.3510a28c.css.map": "/Badawy-template/static/css/main.3510a28c.css.map",
-    "main.07f8aa44.js.map": "/Badawy-template/static/js/main.07f8aa44.js.map",
+    "main.7b0fa462.css.map": "/Badawy-template/static/css/main.7b0fa462.css.map",
+    "main.c663659c.js.map": "/Badawy-template/static/js/main.c663659c.js.map",
     "453.12277f82.chunk.js.map": "/Badawy-template/static/js/453.12277f82.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3510a28c.css",
-    "static/js/main.07f8aa44.js"
+    "static/css/main.7b0fa462.css",
+    "static/js/main.c663659c.js"
   ]
 }
